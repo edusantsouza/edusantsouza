@@ -9,9 +9,10 @@
         estudando toda a stack de Front-end. </p>
 
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edusantsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusantsouza&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: flex" "justify-content: space-between">
+        <a href="https://github.com/edusantsouza/edusantsouza">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edusantsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edusantsouza&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
