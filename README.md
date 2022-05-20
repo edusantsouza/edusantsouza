@@ -5,7 +5,7 @@
 ## Olá! Aqui é o Eduardo.
 
 
-<p> 🌱 Atualmente estou no 1° período da faculdade de Engenharia da Computação e concomitantemente
+<p> 🌱 Atualmente estou no 3° período da faculdade de Engenharia da Computação e concomitantemente
         estudando toda a stack de Front-end. </p>
 
 
