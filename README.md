@@ -2,7 +2,7 @@
 
 
 
-## Olá! Aqui é o Eduardo.
+## Hey!
 
 
 <p> 🌱 Atualmente estou no 3° período da faculdade de Engenharia da Computação e concomitantemente
