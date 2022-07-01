@@ -5,8 +5,9 @@
 ## Hey!
 
 
-<p> 🌱 Atualmente estou no 3° período da faculdade de Engenharia da Computação e concomitantemente
-        estudando toda a stack de Front-end. </p>
+<p> 🌱Currently attending college for computer engineering and developing web applications.  </p>
+
+<quote> Never stop learning. </quote>
 
 
 <div>
