@@ -4,7 +4,7 @@
 Hi 👋 My name is Eduardo Sant!
 ==============================
 
-Computer Engineering | Front end development
+Computer Engineering | Front-end development
 --------------------------------------------
 
 I'm a very curious guy that decided to learn how sofware engineering works. And man, that is awesome!
