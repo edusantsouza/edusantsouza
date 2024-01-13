@@ -10,7 +10,7 @@ Computer Engineering | Front-end development
 I'm a very curious guy that decided to learn how sofware engineering works. And man, that is awesome!
 
 *   🌍  I'm based in Rio de Janeiro, Brazil
-*   🖥️  See my portfolio at [EduardoSant](http://https://site-eduardo-sant.vercel.app/)
+*   🖥️  See my portfolio at [EduardoSant](https://eduardosant.vercel.app/)
 *   ✉️  You can contact me at [eduardo.santsouza@gmail.com](mailto:eduardo.santsouza@gmail.com)
 *   🧠  I'm learning React and NodeJS
 *   ⚡  I am currently workin on a private project about an anime t-shirt ecommerce. I've been learning a lot of things and I intend to share this project soon.
