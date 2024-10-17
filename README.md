@@ -87,17 +87,17 @@ I'm a very curious guy that decided to learn how sofware engineering works. And 
 </div>
 
 <br/>
-
+<!-- 
 ## 📈 Stats
 
 <p >
   <img width="48%" height="25%" src="https://github-readme-stats.vercel.app/api?username=edusantsouza&show_icons=true&theme=dark#gh-dark-mode-only" /> 
   <img width="48%" height="25%" src="https://github-readme-streak-stats.herokuapp.com?user=edusantsouza&theme=dark&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
-<!--   <img src="https://api.githubtrends.io/user/svg/edusantsouza/langs?time_range=one_year&compact=True&theme=dark"/> -->
+  <img src="https://api.githubtrends.io/user/svg/edusantsouza/langs?time_range=one_year&compact=True&theme=dark"/> 
 </p>
 
 
-
+-->
 
               
                       
