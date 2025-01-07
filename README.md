@@ -59,7 +59,7 @@ I'm a very curious guy that decided to learn how sofware engineering works. And 
       <td>📚 Frameworks</td>
       <td>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,tailwind&perline=5" />   
+          <img src="https://skillicons.dev/icons?i=nextjs,tailwind&perline=5" />   
         </a>
       </td>
     </tr>
