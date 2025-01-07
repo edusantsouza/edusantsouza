@@ -16,10 +16,6 @@ I'm a very curious guy that decided to learn how sofware engineering works. And 
 
 ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-	
-
 
 <!--<p align="center">
   <a href="https://skillicons.dev">
