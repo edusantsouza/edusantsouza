@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eduardo Sant, a Front-end Developer :)</h1>
+<h1 align="center">Hi 👋, I'm Eduardo Sant, a Frontend Developer :)</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alexandra8828&label=Profile%20views&color=0e75b6&style=flat" alt="edusantsouza" /></p>
 
-I'm a very curious guy that decided to learn how sofware engineering works. And that is awesome!
+I'm a very curious guy that decided to learn how sofware engineering works. 
 
 - 🌱 I’m currently learning Tailwind CSS.
 - 👯 I’m looking to contribute on open source projects.
