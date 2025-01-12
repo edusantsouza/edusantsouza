@@ -5,7 +5,6 @@ I'm a very curious guy that decided to learn how sofware engineering works.
 
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to contribute on open source projects.
-- 💬 Ask me anything about MERN/MEVN, Nextjs.
 - 📫 How to reach me: [eduardo.santsouza@gmail.com](mailto:eduardo.santsouza@gmail.com)
 
 
